@@ -3,7 +3,7 @@ SensorTag2015
 
 digitalhack's SensorTag2015 Examples
 
-Information on these examples can be found here: http://digitalhacksblog.blogspot.com/
+Information on these examples can be found here: http://digitalhacksblog.blogspot.com/2015/07/ti-simplelink-sensortag-2015-python.html
 
 ##Bash Examples##
 
